@@ -1,4 +1,4 @@
-# Welcome to random-repo
+# Welcome to test branch.
 
-**This is a repository containing random files. Could be anything, such as programming related stuffs and etc.**
-This was made to get myself used to using GitHub, at the time of this creation I am currently a complete amateur when it comes to using GitHub and its features.
+**This branch serves as a holder for the changes that are yet to be approved. Once approved and finalized, it will go directly to the main or master branch.
+Helps to avoid mishaps in editing files.**
