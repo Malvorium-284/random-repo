@@ -19,8 +19,8 @@ public class Main {
 
         Transformer a = new Transformer();
 
-        Main2 fuckthistwo = new Main2();
-        fuckthistwo.PositiveTransform(a);
+        Main2 callMain2 = new Main2();
+        callMain2.PositiveTransform(a);
         System.out.println("So we good, now pls provide your name: ");
         System.out.print("Name: " );
         String userName = takeinput.nextLine();
